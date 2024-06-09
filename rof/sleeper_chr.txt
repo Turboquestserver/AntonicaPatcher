@@ -1,0 +1,7 @@
+6
+pri,pri_chr
+dke,dke
+onm,onm
+myg,myg
+cdm,cdm
+taz,taz_chr

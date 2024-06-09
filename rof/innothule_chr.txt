@@ -1,0 +1,10 @@
+9
+mos,mos_chr
+mmy,mmy_chr
+rtn,rtn
+tar,tar
+snk,snk
+coc,coc_chr
+mep,mep_chr
+sim,karnor_chr
+dev,dev_chr

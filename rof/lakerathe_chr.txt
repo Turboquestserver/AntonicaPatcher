@@ -1,0 +1,11 @@
+11
+cst,cst
+snk,snk
+mmy,mmy_chr
+fdr,fdr_chr
+gia,gia_chr
+ena,frozenshadow_chr
+ked,kedge_chr
+sea,ser_chr
+mer,mer_chr
+lyc,lyc_chr

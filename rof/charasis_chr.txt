@@ -1,0 +1,6 @@
+5
+ssk,ssk_chr
+sim,sebilis_chr
+cls,cls
+xal,karnor_chr
+srw,srw_chr

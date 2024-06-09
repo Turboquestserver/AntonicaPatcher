@@ -1,0 +1,12 @@
+11
+cst,cst
+trk,trk_chr
+dke,dke
+sim,sim_chr
+sif,sif_chr
+drl,drl
+isc,isc_chr
+clm,clm_chr
+kob,kob_chr
+stu,stu_chr
+spi,spi_chr

@@ -1,0 +1,12 @@
+12
+tra,tra
+pma,pma
+mmy,mmy_chr
+cls,cls
+bet,bet_chr
+gri,commons_chr
+wil,ecommons_chr
+qcm,qeynos_chr
+faf,faf_chr
+dri,firiona_chr
+rhi,overthere_chr

@@ -1,0 +1,13 @@
+12
+wil,wil_chr
+goo,goo_chr
+fsk,fsk_chr
+fud,fud_chr
+nin,nin_chr
+eey,eey_chr
+box,box_chr
+brl,brl_chr
+bon,bon_chr
+fun,fun_chr
+spi,spi_chr
+coc,coc_chr
