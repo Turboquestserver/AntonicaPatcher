@@ -1,4 +1,4 @@
-31
+38
 dru,dru_chr
 wyv,wyv_chr
 ccd,ccd_chr
@@ -29,3 +29,10 @@ bat,bat_chr
 kob,kob_chr
 efr,efr_chr
 spi,spi_chr
+fen,fen_chr
+gtd,gtd_chr
+phx,phx_chr
+stf,stf_chr
+paf,paf_chr
+efe,efe_chr
+spd,spd_chr
