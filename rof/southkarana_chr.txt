@@ -4,7 +4,7 @@ pma,pma
 mmy,mmy_chr
 cls,cls
 bet,bet_chr
-gri,commons_chr
+gri,gri_chr
 wil,ecommons_chr
 qcm,qeynos_chr
 faf,faf_chr
