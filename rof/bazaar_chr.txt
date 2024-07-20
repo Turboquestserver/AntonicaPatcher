@@ -1,0 +1,6 @@
+5
+raz,raz_chr
+brv,brv_chr
+wrb,wrb_chr
+wbu,wbu_chr
+rzm,rzm_chr
