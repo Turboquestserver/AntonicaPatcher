@@ -1,4 +1,4 @@
-22
+23
 dke,dke
 onm,onm
 myg,myg
@@ -20,4 +20,5 @@ bwd,bwd_chr
 gar,gar_chr
 gol,gol_chr
 vaz,vaz_chr
+gom,gom_chr
 
