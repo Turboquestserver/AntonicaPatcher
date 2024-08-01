@@ -1,4 +1,4 @@
-28
+29
 tar,tar
 pma,pma
 gem,gem_chr
@@ -26,4 +26,5 @@ spc,frozenshadow_chr
 lyc,lyc_chr
 sir,sir_chr
 btm,btm_chr
+fmo,fmo_chr
 
