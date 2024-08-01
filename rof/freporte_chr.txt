@@ -1,4 +1,4 @@
-11
+10
 rtn,rtn
 btn,btn
 cst,cst
@@ -9,4 +9,3 @@ dpo,dpo_chr
 dpf,dpf_chr
 epm,epm_chr
 epf,epf_chr
-rzm,rzm_chr
