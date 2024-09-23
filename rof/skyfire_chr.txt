@@ -1,4 +1,4 @@
-39
+40
 dru,dru_chr
 wyv,wyv_chr
 ccd,ccd_chr
@@ -37,3 +37,4 @@ paf,paf_chr
 efe,efe_chr
 spd,spd_chr
 srg,srg_chr
+gol,gol_chr
