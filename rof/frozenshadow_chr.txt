@@ -1,0 +1,12 @@
+11
+dke,dke
+btn,btn
+myg,myg
+mmv,mmv_chr
+lmf,lmf_chr
+lmm,lmm_chr
+dvm,mistmoore_chr
+dru,fearplane_chr
+vst,karnor_chr
+qcf,qeynos_chr
+vpm,vpm_chr
